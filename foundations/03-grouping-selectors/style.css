@@ -1,0 +1,14 @@
+button {
+    font-family: Helvetica, 'Timmes New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.num1 {
+    background-color: black;
+    font-weight: bold;
+    color: white;
+}
+
+.num2 {
+    background-color: yellow;
+}
